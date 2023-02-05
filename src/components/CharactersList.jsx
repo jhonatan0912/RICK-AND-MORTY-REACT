@@ -33,7 +33,6 @@ function CharactersList() {
           )
         }
       </div>
-      <NavPage page={page} setPage={setPage} />
     </>
   )
 }
